@@ -1,5 +1,4 @@
 # 💫 About Me:
-👩🏻‍💻 Looking forward to share my code projects<br/>
 🎓 Aerospace engineering student at UPC<br/>
 💡 Currently learning about numerical solver methods and ML<br/>
 
