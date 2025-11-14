@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 Aerospace engineering student at UPC<br/>
 
 
